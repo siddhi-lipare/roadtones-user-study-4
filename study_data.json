@@ -23,7 +23,7 @@
               "Advisory": "Strong"
             }
           },
-          "application": "Law Enforcement Reporting"
+          "application": "Public Safety Awareness"
         },
         {
           "caption_id": "video_1665532513672916992_caption2",
@@ -37,7 +37,7 @@
               "Conversational": "Strong"
             }
           },
-          "application": "Community Discussion"
+          "application": "Urban Traffic Observation"
         },
         {
           "caption_id": "video_1665532513672916992_caption3",
@@ -50,7 +50,7 @@
               "Rhetorical Question": "Very Strong"
             }
           },
-          "application": "Reaction Post"
+          "application": "Urban Traffic Observation"
         }
       ]
     },
@@ -90,7 +90,7 @@
               "Rhetorical Question": "Very Strong"
             }
           },
-          "application": "Reaction Post"
+          "application": "Community Awareness Post"
         },
         {
           "caption_id": "video_1683698289500360704_caption3",
@@ -110,7 +110,7 @@
     }
   ],
   "part3_comparisons": [
-        {
+    {
       "comparison_id": "comp_016",
       "video_id": "video_1740563927124296059",
       "video_path": "media/v_1740563927124296059_EKhCnd-cJchesHdB.mp4",
@@ -132,7 +132,7 @@
       },
       "caption_A": "Did I just see everyone ignore the red light, or am I missing some new rule here?",
       "caption_B": "Did I just see everyone ignore the red light, or am I missing some new rule here?",
-      "application": "Public Commentary Post"
+      "application": "Community Awareness Post"
     },
     {
       "comparison_id": "comp_007",
@@ -163,7 +163,7 @@
       "comparison_id": "comp_011",
       "video_id": "video_1616743651690057730",
       "video_path": "media/v_1616743651690057730_BkObxC8SUxoD1Un0.mp4",
-      "video_summary": "A rear-end collision, a type of traffic accident, occurred during the daytime in the USA, captured by a dashcam from both the driver's and back seats of a car. The key road event involved two cars, where one car was stationary or had come to a stop, and the other car failed to stop, colliding with the rear of the stopped vehicle. The primary reason for the accident appears to be the rear driver's failure to maintain a safe following distance and possibly driver inattention or distracted driving. This incident could have been prevented by the rear driver maintaining a safe following distance, paying attention to the road ahead, and anticipating potential stops by the vehicle in front.",
+      "video_summary": "A rear-end collision, a type of traffic accident, occurred during the daytime in the USA, captured by a dashcam from both the driver's and back seats of a car. The key road event involved two cars, where one car was stationary or had come to a stop, and the other car failed to stop, colliding with the rear of the stopped vehicle. The primary reason for the accident appears to be the rear driver's failure to maintain a safe following distance and possibly driver inattention or distracted-driving. This incident could have been prevented by the rear driver maintaining a safe following distance, paying attention to the road ahead, and anticipating potential stops by the vehicle in front.",
       "road_event_answer": "A car failed to stop and rear-ended a stationary vehicle.",
       "distractor_answers": [
         "Multiple vehicles run a red light and make illegal U-turns while pedestrians are crossing against their signal.",
@@ -180,11 +180,11 @@
       },
       "caption_A": "I just got rear-ended because someone wasn\u2019t paying attention.",
       "caption_B": "I just got rear-ended because someone wasn\u2019t paying attention.",
-      "application": "Road Incident Summary"
+      "application": "Community Awareness Post"
     }
   ],
   "part2_intensity_change": [
-        {
+    {
       "change_id": "change_016",
       "video_id": "video_1683698289500360704",
       "video_path": "media/v_1683698289500360704_yZhIy2eH_7sTL1QV.mp4",
@@ -220,7 +220,7 @@
         "writing_style": "Advisory"
       },
       "change_type": "decreased",
-      "application": "Community Discussion"
+      "application": "Community Awareness Post"
     },
     {
       "change_id": "change_015",
@@ -239,7 +239,7 @@
         "writing_style": "Pop Culture Reference"
       },
       "change_type": "increased",
-      "application": "Reaction Post"
+      "application": "Community Awareness Post"
     },
     {
       "change_id": "change_020",
