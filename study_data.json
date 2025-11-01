@@ -17,10 +17,10 @@
           "control_scores": {
             "tone": {
               "Appreciative": "Strong",
-              "Considerate": "Strong"
+              "Optimistic": "Strong"
             },
             "writing_style": {
-              "Advisory": "Strong"
+              "Factual": "Strong"
             }
           },
           "application": "Public Safety Awareness"
@@ -70,12 +70,12 @@
           "text": "@SafeRoadsWatch Reckless lane changes and aggressive responses are a threat to everyone. Impatience behind the wheel isn\u2019t just careless\u2014it\u2019s dangerous. Drivers need to control their tempers and stop escalating road risks.",
           "control_scores": {
             "tone": {
-              "Assertive": "Strong",
-              "Critical": "Strong"
+              "Critical": "Strong",
+              "Serious": "Very Strong"
             },
             "writing_style": {
               "Advisory": "Strong",
-              "Factual": "Strong"
+              "Persuasive": "Strong"
             }
           },
           "application": "Law Enforcement Reporting"
@@ -101,8 +101,7 @@
               "Critical": "Very Strong"
             },
             "writing_style": {
-              "Rhetorical Question": "Strong",
-              "Judgmental": "Strong"
+              "Rhetorical Question": "Strong"
             }
           },
           "application": "Law Enforcement Reporting"
@@ -222,11 +221,11 @@
       "control_scores": {
         "tone": {
           "Critical": "Very Strong",
-          "Opinionated": "Strong"
+          "Assertive": "Strong"
         },
         "writing_style": {
-          "Persuasive": "Strong",
-          "CallToAction": "Strong"
+          "Judgmental": "Strong",
+          "Rhetorical Question": "Strong"
         }
       },
       "caption_A": "I just witnessed an elderly driver blatantly ignore the lane markings and go straight from a left-turn-only lane, right in front of my dashcam. I had to honk to warn them\u2014seriously, why do some people act like the rules don\u2019t apply to them? It\u2019s reckless and dangerous. We need stricter enforcement! #TrafficViolation #RoadSafety",
