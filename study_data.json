@@ -13,7 +13,7 @@
       "captions": [
         {
           "caption_id": "video_1665532513672916992_caption1",
-          "text": "Chicago streets show how safe cycling lanes and attentive road users make a difference. \ud83d\udeb4\u200d\u2642\ufe0f Pedestrians, cyclists, and vehicles all follow the rules. #RoadSafety",
+          "text": "Chicago streets show how safe cycling lanes and attentive road users make a difference. 🚴‍♂️ Pedestrians, cyclists, and vehicles all follow the rules. #RoadSafety",
           "control_scores": {
             "tone": {
               "Appreciative": "Strong",
@@ -23,11 +23,11 @@
               "Factual": "Strong"
             }
           },
-          "application": "Public Safety Awareness"
+          "application": "Public Safety Alert"
         },
         {
           "caption_id": "video_1665532513672916992_caption2",
-          "text": "Isn\u2019t it interesting how on a typical morning, afternoon, or dusk, everyone just goes about their way, following signals and lanes? Does anyone even notice the calm routine?",
+          "text": "Isn’t it interesting how on a typical morning, afternoon, or dusk, everyone just goes about their way, following signals and lanes? Does anyone even notice the calm routine?",
           "control_scores": {
             "tone": {
               "Thoughtful": "Very Strong"
@@ -41,7 +41,7 @@
         },
         {
           "caption_id": "video_1665532513672916992_caption3",
-          "text": "Chicago roads looking smooth today, don\u2019t you think? \ud83d\udeb2",
+          "text": "Chicago roads looking smooth today, don’t you think? 🚲",
           "control_scores": {
             "tone": {
               "Casual": "Strong"
@@ -67,7 +67,7 @@
       "captions": [
         {
           "caption_id": "video_1763928814290354479_caption1",
-          "text": "@SafeRoadsWatch Reckless lane changes and aggressive responses are a threat to everyone. Impatience behind the wheel isn\u2019t just careless\u2014it\u2019s dangerous. Drivers need to control their tempers and stop escalating road risks.",
+          "text": "@SafeRoadsWatch Reckless lane changes and aggressive responses are a threat to everyone. Impatience behind the wheel isn’t just careless—it’s dangerous. Drivers need to control their tempers and stop escalating road risks.",
           "control_scores": {
             "tone": {
               "Critical": "Strong",
@@ -78,11 +78,11 @@
               "Persuasive": "Strong"
             }
           },
-          "application": "Law Enforcement Reporting"
+          "application": "Public Safety Alert"
         },
         {
           "caption_id": "video_1763928814290354479_caption2",
-          "text": "Two cars encounter each other in the Florida Keys \ud83d\ude97 #FloridaKeys",
+          "text": "Two cars encounter each other in the Florida Keys 🚗 #FloridaKeys",
           "control_scores": {
             "tone": {
               "Casual": "Strong"
@@ -91,11 +91,11 @@
               "Factual": "Strong"
             }
           },
-          "application": "Road Incident Summary"
+          "application": "Urban Traffic Observation"
         },
         {
           "caption_id": "video_1763928814290354479_caption3",
-          "text": "What is it about the Florida Keys that turns drivers reckless? Two cars, one dangerous lane change\u2014seriously? #RoadRage \ud83d\ude97\ud83c\uddfa\ud83c\uddf8",
+          "text": "What is it about the Florida Keys that turns drivers reckless? Two cars, one dangerous lane change—seriously? #RoadRage 🚗🇺🇸",
           "control_scores": {
             "tone": {
               "Critical": "Very Strong"
@@ -104,7 +104,7 @@
               "Rhetorical Question": "Strong"
             }
           },
-          "application": "Law Enforcement Reporting"
+          "application": "Driver Behavior Monitoring"
         }
       ]
     }
